@@ -23,7 +23,7 @@ public abstract class User
         }
         else
         {
-            throw new ArgumentException("Invalid phone number format. Phone number must be 10 or 11 digits long.");
+            throw new ArgumentException("Invalid phone number. Phone number must be 10 or 11 digits long.");
         }
     }
 
@@ -318,10 +318,10 @@ public class RideSharingSystem
 
     public void DisplayAllTrips()
     {
-        Console.WriteLine("All Trips:");
+        Console.WriteLine("All Available Trips:");
         if (availableTrips.Count == 0)
         {
-            Console.WriteLine("No trips found.");
+            Console.WriteLine("No available trips found.");
             return;
         }
 
@@ -359,7 +359,7 @@ class Program
 
         while (true)
         {
-            Console.Clear();
+            //Console.Clear();
             Console.WriteLine("Ride-Sharing System");
             Console.WriteLine("1. Register as Rider");
             Console.WriteLine("2. Register as Driver");
@@ -406,7 +406,7 @@ class Program
 
     static void RegisterRider(RideSharingSystem system)
     {
-        Console.Clear();
+        //Console.Clear();
         Console.WriteLine("Register as Rider");
         Console.Write("Enter Rider ID: ");
         string riderID = Console.ReadLine();
@@ -421,7 +421,7 @@ class Program
 
     static void RegisterDriver(RideSharingSystem system)
     {
-        Console.Clear();
+        //Console.Clear();
         Console.WriteLine("Register as Driver");
         Console.Write("Enter Driver ID: ");
         string driverID = Console.ReadLine();
@@ -440,7 +440,7 @@ class Program
 
     static void LoginRider(RideSharingSystem system)
     {
-        Console.Clear();
+        //Console.Clear();
         Console.WriteLine("Login as Rider");
         Console.Write("Enter Rider ID: ");
         string riderID = Console.ReadLine();
@@ -460,7 +460,7 @@ class Program
 
     static void LoginDriver(RideSharingSystem system)
     {
-        Console.Clear();
+        //Console.Clear();
         Console.WriteLine("Login as Driver");
         Console.Write("Enter Driver ID: ");
         string driverID = Console.ReadLine();
@@ -482,7 +482,7 @@ class Program
     {
         while (true)
         {
-            Console.Clear();
+            //Console.Clear();
             Console.WriteLine("Rider Menu");
             Console.WriteLine("1. Request Ride");
             Console.WriteLine("2. View Ride History");
@@ -519,7 +519,7 @@ class Program
     {
         while (true)
         {
-            Console.Clear();
+            //Console.Clear();
             Console.WriteLine("Driver Menu");
             Console.WriteLine("1. Toggle Availability");
             Console.WriteLine("2. View Trip History");
@@ -558,7 +558,7 @@ class Program
 
     static void RequestRide(RideSharingSystem system, Rider rider)
     {
-        Console.Clear();
+        //Console.Clear();
         Console.WriteLine("Request Ride");
         Console.Write("Enter start location: ");
         string startLocation = Console.ReadLine();
@@ -570,7 +570,7 @@ class Program
 
     static void AcceptRide(RideSharingSystem system, Driver driver)
     {
-        Console.Clear();
+        //Console.Clear();
         Console.WriteLine("Accept Ride");
         system.DisplayAllTrips();
         Console.Write("Enter Trip ID to accept: ");

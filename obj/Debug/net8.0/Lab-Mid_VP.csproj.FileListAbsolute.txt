@@ -12,3 +12,4 @@ D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\refint\Lab-Mid_VP.dll
 D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\Lab-Mid_VP.pdb
 D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\Lab-Mid_VP.genruntimeconfig.cache
 D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\ref\Lab-Mid_VP.dll
+D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\Lab-Mid_VP.sourcelink.json
