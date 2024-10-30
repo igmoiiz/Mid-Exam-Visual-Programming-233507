@@ -1,0 +1,14 @@
+D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\Lab-Mid_VP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\Lab-Mid_VP.AssemblyInfoInputs.cache
+D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\Lab-Mid_VP.AssemblyInfo.cs
+D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\Lab-Mid_VP.csproj.CoreCompileInputs.cache
+D:\Programming\Lab-Mid_VP\bin\Debug\net8.0\Lab-Mid_VP.exe
+D:\Programming\Lab-Mid_VP\bin\Debug\net8.0\Lab-Mid_VP.deps.json
+D:\Programming\Lab-Mid_VP\bin\Debug\net8.0\Lab-Mid_VP.runtimeconfig.json
+D:\Programming\Lab-Mid_VP\bin\Debug\net8.0\Lab-Mid_VP.dll
+D:\Programming\Lab-Mid_VP\bin\Debug\net8.0\Lab-Mid_VP.pdb
+D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\Lab-Mid_VP.dll
+D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\refint\Lab-Mid_VP.dll
+D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\Lab-Mid_VP.pdb
+D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\Lab-Mid_VP.genruntimeconfig.cache
+D:\Programming\Lab-Mid_VP\obj\Debug\net8.0\ref\Lab-Mid_VP.dll

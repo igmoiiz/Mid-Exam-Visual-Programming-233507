@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lab-Mid_VP/1.0.0": {
+        "runtime": {
+          "Lab-Mid_VP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab-Mid_VP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
